@@ -1,1 +1,1 @@
-Para que el proyecto funcione, debes correr el script de la base de datos que adjunté en sql server, ademas de ello en la cadena de conexion debes cambiar el nombre del servidor por el nombre del servidor de sql server.
+Para que el proyecto funcione, debes correr el script de la base de datos que adjunté en sql server, ademas de ello en la cadena de conexion debes cambiar el nombre del servidor al que tengas en tu maquina.
